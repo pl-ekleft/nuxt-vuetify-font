@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-font",
+  "version": "1.0.0",
+  "description": "My perfect Nuxt.js project",
+  "author": "p.levin",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.11.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.10.0",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0"
+  }
+}

@@ -1,0 +1,21 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+
+// Shrine specific variables
+$shrine-chip-border-radius: 0;
+
+/**
+ * v-app-bar
+ */
+// Globals
+$body-font-family: 'Gilroy', Tahoma, sans-serif;
+$title-font: $body-font-family;
+
+$border-radius-root: 0;
+$font-size-root: 8px;
+
+// Variables must come before the import
+$btn-font-weight: 400;
+
+$btn-border-radius: 0;
+
+// @import '~vuetify/src/styles/styles.sass';
